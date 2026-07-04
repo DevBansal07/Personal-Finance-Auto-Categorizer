@@ -1,0 +1,67 @@
+{
+  "categories": {
+    "Groceries": [
+      "walmart", "kroger", "whole foods", "trader joe", "aldi",
+      "costco", "safeway", "publix", "wegmans", "grocery",
+      "fresh market", "sprouts", "food lion", "piggly wiggly"
+    ],
+    "Dining Out": [
+      "mcdonalds", "starbucks", "chipotle", "dominos", "pizza hut",
+      "subway", "taco bell", "wendy", "burger king", "dunkin",
+      "chick-fil-a", "panera", "olive garden", "applebee",
+      "ihop", "denny", "panda express", "five guys", "popeyes"
+    ],
+    "Transport": [
+      "uber", "lyft", "shell", "chevron", "exxon", "bp gas",
+      "parking", "toll", "gas station", "fuel", "sunoco",
+      "marathon", "valero", "wawa fuel", "metro", "transit"
+    ],
+    "Subscriptions": [
+      "netflix", "spotify", "hulu", "disney+", "amazon prime",
+      "youtube premium", "apple.com/bill", "hbo max", "paramount",
+      "peacock", "audible", "dropbox", "icloud", "adobe"
+    ],
+    "Utilities": [
+      "electric", "water bill", "gas bill", "internet", "comcast",
+      "at&t", "verizon", "t-mobile", "spectrum", "utility",
+      "power company", "sewage", "xfinity"
+    ],
+    "Shopping": [
+      "amazon", "target", "best buy", "ebay", "etsy", "nike",
+      "adidas", "zara", "h&m", "nordstrom", "macy", "kohls",
+      "old navy", "gap", "ikea", "home depot", "lowes"
+    ],
+    "Health & Wellness": [
+      "pharmacy", "cvs", "walgreens", "doctor", "hospital",
+      "gym", "fitness", "planet fitness", "urgent care",
+      "dental", "optometrist", "rite aid", "medical"
+    ],
+    "Rent & Housing": [
+      "rent", "mortgage", "hoa", "property tax", "lease",
+      "apartment", "housing"
+    ],
+    "Insurance": [
+      "geico", "state farm", "allstate", "progressive",
+      "insurance", "liberty mutual", "usaa", "farmers"
+    ],
+    "Entertainment": [
+      "cinema", "theater", "concert", "game", "steam",
+      "playstation", "xbox", "nintendo", "amc", "regal",
+      "ticketmaster", "eventbrite", "bowling", "arcade"
+    ],
+    "Travel": [
+      "airline", "hotel", "airbnb", "booking.com", "expedia",
+      "delta", "united", "southwest", "marriott", "hilton",
+      "flight", "resort"
+    ],
+    "Education": [
+      "tuition", "university", "college", "coursera", "udemy",
+      "skillshare", "textbook", "school", "student loan"
+    ],
+    "Personal Care": [
+      "salon", "barber", "spa", "nail", "haircut",
+      "beauty", "sephora", "ulta", "cosmetics"
+    ]
+  },
+  "default_category": "Uncategorized"
+}
